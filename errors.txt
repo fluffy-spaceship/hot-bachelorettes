@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 79: Line is indented, but the preceding say menuitem statement does not expect a block. Please check this line's indentation.
+    "Yes":
+    ^
+
+File "game/script.rpy", line 125: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "I'm choosing ..."
+                      ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Mon Mar 28 17:24:22 2022
